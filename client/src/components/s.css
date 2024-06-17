@@ -1,0 +1,32 @@
+
+.containe{
+    background-color:rgb(143, 236, 166) ;
+}
+
+
+.statistics{
+    text-align: center;
+    font-size: 21px;
+    margin-bottom: 50px;
+}
+
+
+.h{
+    
+    display: flex;
+    font-size: 25px;
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+
+.stactis{
+    display: flex;
+    justify-content: center;
+    flex-direction: column; /* Align items vertically */
+    text-align: center;
+    margin-top: 15px;
+    font-size: 15px;
+}

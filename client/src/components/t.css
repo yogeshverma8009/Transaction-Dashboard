@@ -1,0 +1,56 @@
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.circle {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: #007bff; /* Change color as needed */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 24px;
+  text-align: center;
+}
+.selectM {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.month {
+  font-size: 15px;
+}
+
+.btl {
+  float: left;
+  padding: 5px;
+  background-color: #314152;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 5px solid white;
+}
+
+.btr {
+  float: right;
+  padding: 5px;
+  background-color: #314152;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 5px solid white;
+}
+
+.page{
+  padding: 3px;
+  margin: 3px;
+  font-size: large;
+}
+
+.perPage{
+  padding: 3px;
+  margin: 3px;
+  font-size: large;
+}

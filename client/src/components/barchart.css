@@ -1,0 +1,10 @@
+.container{
+    background-color:#fff;
+    height: 400px;
+}
+
+.barchart{
+    text-align: center;
+    font-size: 21px;
+    margin-bottom: 50px;
+}
